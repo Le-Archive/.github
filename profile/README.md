@@ -1,5 +1,5 @@
 # Wuzzup.
-### This is an archive, of stuff you might want to use in school (ie: games, cheats bookmarklets, apps, exploits)
+### This is an archive, of stuff you might want to use in school (ie: games, bookmarklets, apps, exploits)
 # Here are useless facts
 -This is a small (1 person) Organization that promotes playing games on your school computer
 - This team I'm planning including myself will only include 7th grade
